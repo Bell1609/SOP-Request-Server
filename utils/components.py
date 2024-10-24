@@ -110,6 +110,7 @@ img {
         .image2 
         { 
             padding: 10px;
+            width: auto;
              transition: transform .2s;
         }
         .image1:hover {  
@@ -156,11 +157,19 @@ text-align: center;
 <div class="footer">
 <p style="font-size:  13px">TRG International</p>
 <p style="font-size: 13px">This software is distributed under an MIT licence. Please consult the LICENSE file for more details.</p>
-<a href="https://www.ipmc.cnrs.fr/cgi-bin/site.cgi"><img class="image2" src="https://raw.githubusercontent.com/Jumitti/TFinder/main/img/logo%20ipmc.png"alt="github" width="80" height=57"></a>
-<a href="https://www.cnrs.fr/fr"><img class="image2" src="https://www.cnrs.fr/themes/custom/cnrs/logo.svg"alt="github" width="70" height="70"></a>
-<a href="https://www.inserm.fr/"><img class="image2" src="https://raw.githubusercontent.com/Jumitti/TFinder/main/img/logo%20inserm.png"alt="github" width="100" height="70"></a>
-<a href="https://univ-cotedazur.fr/"><img class="image2" src="https://raw.githubusercontent.com/Jumitti/TFinder/main/img/logo%20univ%20cote%20dazur.png"alt="github" width="70" height="70"></a>
-</a><a href="https://github.com/Jumitti"><img class="image2" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="70" height="70"></a>
+<a href="https://aws.amazon.com/vi/free/?trk=a1f96d77-24e3-497e-b5fc-bab658afe631&sc_channel=ps&ef_id=:G:s&s_kwcid=AL!4422!10!72018238917871!72018763037108&msclkid=d328557ca6871921754832655a01ce33">
+    <img class="image2" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="AWS" width="70" height="70">
+</a>
+<a href="https://www.infor.com/en-sg">
+    <img class="image2" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/infor_logo_icon_167926.png" alt="Infor" width="100" height="70">
+</a>
+<a href="https://www.trginternational.com">
+    <img class="image2" src="https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM29zREE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--616d9d3a169cb82bd3a282487b2a9fed671505c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJc0FXa0NMQUU9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--15c3f2f3e11927673ae52b71712c1f66a7a1b7bd/trg-international-logo.png" alt="TRG" width="70" height="70">
+</a>
+<a href="https://github.com/Bell1609/SOP-Request-Server.git">
+    <img class="image2" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="70" height="70">
+</a>
+
 """
 
 color_style = """

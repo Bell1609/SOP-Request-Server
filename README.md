@@ -1,8 +1,6 @@
-# 🎈 Blank app template
+# 👩‍💻 SOP - REQUEST - SERVER
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+This is a web app designed to provide a form for users to submit requests for obtaining server resources.
 
 ### How to run it on your own machine
 
@@ -15,5 +13,5 @@ A simple Streamlit app template for you to modify!
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run Request-Server.py
    ```
